@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(#526D82, #27374D);
+    background-repeat: no-repeat;
+    /* height: 100vh; */
+    color: #DDE6ED;
+    /* overflow-y: auto; */
+
+}
+
+.header {
+    margin: 35px auto;
+    font-size: 2rem;
+    display: flex;
+}
+
+.container {
+    /* margin-top: 100px; */
+
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    font-family: 'Handlee', cursive;
+    min-height: 100vh;
+}
+
+.box {
+    margin: 1rem;
+
+}
+
+.bmi-logo {
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+.input-field {
+    height: 4rem;
+    width: 17rem;
+    font-size: 1.5rem;
+    font-family: 'Handlee', cursive;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn {
+    margin: 25px 4rem 0px 0px;
+    background-image: linear-gradient(#9DB2BF, #DDE6ED);
+    opacity: 0.75;
+    height: 3rem;
+    border-radius: 10px;
+    color: #0C134F;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    /* margin-right: 4rem; */
+
+}
+
+
+
+.btn:hover {
+    cursor: pointer;
+    opacity: 1;
+    font-weight: 600;
+}
+
+.reset {
+    margin-top: 25px;
+    background-color: red;
+    color: white;
+    height: 3rem;
+    width: 5rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+    opacity: 0.75;
+    font-family: 'Poppins', sans-serif;
+}
+
+.body-img{
+    height: 8rem;
+    width: 8rem;
+    margin: 0 20px;
+}
+
+.reset:hover {
+    cursor: pointer;
+    opacity: 1;
+}
+
+.result {
+    display: flex;
+    color: #DDE6ED;
+    margin: 10px auto;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+
+
+
+.buttons {
+    display: flex;
+    font-family: 'Handlee', cursive;
+}
