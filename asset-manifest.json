@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/BMI-Calculator/static/js/main.c8918a2e.js",
+    "static/media/bmi.png": "/BMI-Calculator/static/media/bmi.bcfff55994d198436a1e.png",
+    "static/media/003-muscle.png": "/BMI-Calculator/static/media/003-muscle.10927593414c5a82f71b.png",
+    "index.html": "/BMI-Calculator/index.html",
+    "main.c8918a2e.js.map": "/BMI-Calculator/static/js/main.c8918a2e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c8918a2e.js"
+  ]
+}
